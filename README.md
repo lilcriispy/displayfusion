@@ -6,6 +6,7 @@ Toggle Focus: Makes a list of all the lofi and binaural beats windows currently 
 	- the profile references on line 24 & 34, make sure they point to the relevant profile on YOUR computer
 	- the app id's may not work for you? in which case you'll want to navigate to the [lofi](https://www.youtube.com/watch?v=5qap5aO4i9A) and [binaural beats](https://www.youtube.com/watch?v=SAyA7rfyF38&t=9368s) videos yourself, click the three dots in the upper right corner, "More Tools", "Create Shortcut", make sure to select "Open as window" and then "Create"
 	- I have this script tied to the key combination "Alt + Ctrl + F", which you can do after importing it into DisplayFusion
+		- If you do this also, you can use the *focus.vbs* file to essentially run this key combo without having to press the keys. Kinda neat!
 	- I was running into problems with this script until I made and enabled a trigger that runs when a window of any process "." is created, with an action to Move Window to Mouse Cursor Monitor. I have had no problems since.
 
 
